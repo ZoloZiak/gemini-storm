@@ -18,7 +18,7 @@ Instead of direct API calls, this extension uses a **Nested Gemini Wrapper**. It
 ## 📦 Installation
 
 ```bash
-gemini extensions install https://github.com/zolo-lenovo/gemini-storm
+gemini extensions install https://github.com/ZoloZiak/gemini-storm
 ```
 
 ## ⌨️ Usage

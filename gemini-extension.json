@@ -5,7 +5,7 @@
   "main": "skills/storm.md",
   "author": "Zolo_lenovo",
   "license": "MIT",
-  "repository": "https://github.com/zolo-lenovo/gemini-storm",
+  "repository": "https://github.com/ZoloZiak/gemini-storm",
   "agents": [
     "agents/storm-monitor.md"
   ]
