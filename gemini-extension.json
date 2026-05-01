@@ -1,0 +1,12 @@
+{
+  "name": "gemini-storm",
+  "version": "1.0.0",
+  "description": "Stanford STORM implementation via nested Gemini CLI wrapper. Research power with zero auth friction.",
+  "main": "skills/storm.md",
+  "author": "Zolo_lenovo",
+  "license": "MIT",
+  "repository": "https://github.com/zolo-lenovo/gemini-storm",
+  "agents": [
+    "agents/storm-monitor.md"
+  ]
+}
